@@ -11,6 +11,7 @@
     "uuidv4": "^6.2.0"
   },
   "devDependencies": {
+    "@microsoft/eslint-formatter-sarif": "^3.0.0",
     "@types/express": "^4.17.7",
     "@types/nodemailer": "^6.4.0",
     "eslint": "^8.15.0",
